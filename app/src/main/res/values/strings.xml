@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App1</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="upload_location">Location</string>
+    <string name="click_here_to_change_city">Click Here to Change City</string>
+    <string name="na">NA</string>
+    <string name="this_is_the_weather_symbol">This is the weather symbol</string>
+    <string name="title_activity_weather_control">WeatherControl</string>
+</resources>
